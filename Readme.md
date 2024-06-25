@@ -14,7 +14,7 @@ This repository is mostly for reference, it contains the tips and tricks I have 
 <img src="https://github.com/GuardianOfGods/unity-mobile-developer/assets/52252046/1f87bd2f-bee1-4b51-9d8e-1a2d2d360f0a">
 </div>
 
-### Chose Unity Version
+### Choose Unity Version
 - First, always choose Unity versions with **LTS (Long Term Support)** to minimize errors and receive bug fixes from Unity in subsequent LTS versions.
 
 > [!WARNING] 
