@@ -25,9 +25,34 @@ This repository is mostly for reference, it contains the tips and tricks I have 
 </div>
 
 ## IDE
-### Chose IDE
+### Choose IDE
+- There are many different IDEs that support programming in Unity. Additionally, there are many AI tools that can be integrated into IDEs, such as Tabnine, Copilot, IntelliSense, etc. AI can significantly boost your programming efficiency.
+- Here are the three most popular and powerful IDEs that I recommend you use:
+  
+**1. JetBrains Rider**
+- High Performance: Rider is known for its high performance and fast processing speed.
+- Powerful Refactoring: Provides strong refactoring tools to improve code quality.
+- Code Analysis: Code analysis features help detect errors and improve code.
+- Good Unity Integration: Rider offers good integration with Unity, including debugging and code navigation.
+  
+**2. Visual Studio Code (VS Code)**
+- Lightweight and Flexible: VS Code is a lightweight IDE that can be easily customized and extended with extensions.
+- Unity Extensions: Extensions like Unity Tools and Unity Debugger enhance Unity development capabilities.
+- Supports Multiple Languages: Supports various programming languages and frameworks, not just C#.
+  
+**3. Microsoft Visual Studio**
+- Good Integration with Unity: Visual Studio provides deep integration with Unity, including debugging, code navigation, and project management.
+- IntelliSense: Intelligent code completion helps speed up coding and reduce syntax errors.
+- Powerful Debugging Tools: Visual Studio offers robust debugging tools that make it easy to test and fix errors.
+- Extensions and Plugins: There are numerous extensions and plugins available to enhance the development experience.
 
 ### Attach IDE
+
+- To attach IDE to Unity, in Unity open **Edit -> Preference -> External Tools**. Choose IDE you want to use in **External Script Editor**
+
+<div align="center">
+<img src="https://github.com/GuardianOfGods/unity-mobile-developer/assets/52252046/e3972714-fda1-45d0-90bd-6fccba3e1634">
+</div>
 
 ## Unity Editor
 
