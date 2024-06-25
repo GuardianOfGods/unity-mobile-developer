@@ -61,7 +61,7 @@ This repository is mostly for reference, it contains the tips and tricks I have 
 
 ![image](https://github.com/GuardianOfGods/unity-mobile-developer/assets/52252046/8593ee7b-3ebc-4334-a361-111b08f9f62e)
 
-- It is not simply my preference; the basis for this layout is the convenience it provides for my workflow. I will analyze the layout to give you a clearer perspective:
+- It is not simply my preference, the logic for this layout is the convenience it provides for my workflow. I will analyze the layout to give you a clearer perspective:
 1. Placing tabs within the same tab group can be time-consuming as you have to switch between tabs to display them on the screen. So I split impotant tabs to many groups.
     
 ![image](https://github.com/GuardianOfGods/unity-mobile-developer/assets/52252046/a5f87488-def2-4914-ac43-b1777e0fb399)
