@@ -26,7 +26,7 @@ This repository is mostly for reference, it contains the tips and tricks I have 
 
 ## IDE
 ### Choose IDE
-- There are many different IDEs that support programming in Unity. Additionally, there are many AI tools that can be integrated into IDEs, such as Tabnine, Copilot, IntelliSense, etc. AI can significantly boost your programming efficiency.
+- There are many different IDEs that support programming in Unity. Additionally, there are many AI tools that can be integrated into IDEs, such as **Tabnine**, **Copilot**, **IntelliSense**, etc. AI can significantly boost your programming efficiency.
 - Here are the three most popular and powerful IDEs that I recommend you use:
   
 **1. JetBrains Rider**
