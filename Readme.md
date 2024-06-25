@@ -59,7 +59,7 @@ This repository is mostly for reference, it contains the tips and tricks I have 
 
 - Here my favorite layout with 2 screens.
 
-![image](https://github.com/GuardianOfGods/unity-mobile-developer/assets/52252046/8593ee7b-3ebc-4334-a361-111b08f9f62e)
+![image](https://github.com/GuardianOfGods/unity-mobile-developer/assets/52252046/90c041c1-dfce-40c7-aa4f-5cf625e7ff9c)
 
 - It is not simply my preference, the logic for this layout is the convenience it provides for my workflow. I will analyze the layout to give you a clearer perspective:
 1. Placing tabs within the same tab group can be time-consuming as you have to switch between tabs to display them on the screen. So I split impotant tabs to many groups.
