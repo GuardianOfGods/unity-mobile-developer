@@ -55,6 +55,31 @@ This repository is mostly for reference, it contains the tips and tricks I have 
 </div>
 
 ## Unity Editor
+### Unity Layout
+
+- Here my favorite layout with 2 screens.
+
+![image](https://github.com/GuardianOfGods/unity-mobile-developer/assets/52252046/8593ee7b-3ebc-4334-a361-111b08f9f62e)
+
+- It is not simply my preference; the basis for this layout is the convenience it provides for my workflow. I will analyze the layout to give you a clearer perspective:
+1. Placing tabs within the same tab group can be time-consuming as you have to switch between tabs to display them on the screen. So I split impotant tabs to many groups.
+    
+![image](https://github.com/GuardianOfGods/unity-mobile-developer/assets/52252046/a5f87488-def2-4914-ac43-b1777e0fb399)
+
+2. Viewing the information in my Hierarchy is quite easy since the two tabs are placed close to each other.
+
+![image](https://github.com/GuardianOfGods/unity-mobile-developer/assets/52252046/9ccbfdd3-6175-4f7d-8a81-2993e3d7eb30)
+
+
+3. When I need to use a prefab in the game, I can simply drag the prefab from the Project into the Hierarchy or Scene. Also, it's good for game design.
+
+![image](https://github.com/GuardianOfGods/unity-mobile-developer/assets/52252046/dd2b1305-cab1-4afa-b32b-19dccf0fbd45)
+
+
+5. While playing the game through the Game tab, I can view the information on the left side of the screen.
+
+![image](https://github.com/GuardianOfGods/unity-mobile-developer/assets/52252046/7126b3ef-cb88-4980-8657-4efc0a0c51d2)
+
 
 ## Project Assets
 
