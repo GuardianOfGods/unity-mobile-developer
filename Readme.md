@@ -81,8 +81,8 @@ This repository is mostly for reference, it contains the tips and tricks I have 
 ![image](https://github.com/GuardianOfGods/unity-mobile-developer/assets/52252046/7126b3ef-cb88-4980-8657-4efc0a0c51d2)
 
 ## Project Assets
-- I usually place project-related assets in a subfolder within the Assets directory to easily find resources and separate them from third-party assets. 
-- To display a folder at the top, I add an "_" to the folder name, and to display it at the bottom, I add a "~".
+- I usually place project-related assets in a subfolder within the **Assets** directory to easily find resources and separate them from third-party assets. 
+- To display a folder at the top, I add an **"_"** to the folder name, and to display it at the bottom, I add a **"~"**.
 - This image below show how I order folder assets:
 
 ![image](https://github.com/GuardianOfGods/unity-mobile-developer/assets/52252046/19e45553-fcc6-43af-a48b-fe43f4d75726)
