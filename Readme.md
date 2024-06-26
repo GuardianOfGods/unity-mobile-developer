@@ -74,21 +74,20 @@ This repository is mostly for reference, it contains the tips and tricks I have 
 ![image](https://github.com/GuardianOfGods/unity-mobile-developer/assets/52252046/90c041c1-dfce-40c7-aa4f-5cf625e7ff9c)
 
 - It is not simply my preference, the logic for this layout is the convenience it provides for my workflow. I will analyze the layout to give you a clearer perspective:
-1. Placing tabs within the same tab group can be time-consuming as you have to switch between tabs to display them on the screen. So I split impotant tabs to many groups.
+_1. Placing tabs within the same tab group can be time-consuming as you have to switch between tabs to display them on the screen. So I split impotant tabs to many groups._
     
 ![image](https://github.com/GuardianOfGods/unity-mobile-developer/assets/52252046/a5f87488-def2-4914-ac43-b1777e0fb399)
 
-2. Viewing the information in my Hierarchy is quite easy since the two tabs are placed close to each other.
+_2. Viewing the information in my Hierarchy is quite easy since the two tabs are placed close to each other._
 
 ![image](https://github.com/GuardianOfGods/unity-mobile-developer/assets/52252046/9ccbfdd3-6175-4f7d-8a81-2993e3d7eb30)
 
 
-3. When I need to use a prefab in the game, I can simply drag the prefab from the Project into the Hierarchy or Scene. Also, it's good for game design.
+_3. When I need to use a prefab in the game, I can simply drag the prefab from the Project into the Hierarchy or Scene. Also, it's good for game design._
 
 ![image](https://github.com/GuardianOfGods/unity-mobile-developer/assets/52252046/dd2b1305-cab1-4afa-b32b-19dccf0fbd45)
 
-
-5. While playing the game through the Game tab, I can view the information on the left side of the screen.
+_4. While playing the game through the Game tab, I can view the information on the left side of the screen._
 
 ![image](https://github.com/GuardianOfGods/unity-mobile-developer/assets/52252046/7126b3ef-cb88-4980-8657-4efc0a0c51d2)
 
@@ -111,6 +110,39 @@ This repository is mostly for reference, it contains the tips and tricks I have 
 
 
 ## Debug
+- The method I use for debugging on an actual mobile device is to use the monitor. Here is step to debug on mobile device:
+  
+_1. Navigate to the SDK directory linked in the Edit -> Preferences -> External Tools -> Copy SDK Path._
+
+![image](https://github.com/GuardianOfGods/unity-mobile-developer/assets/52252046/3368b12b-2e6d-4764-8b6b-f2af87608ce8)
+
+_2. Then open directory that you copy, open tools folder._
+
+![image](https://github.com/GuardianOfGods/unity-mobile-developer/assets/52252046/d79bb9be-9d3e-41a4-8dcf-a7b768101f16)
+
+_3. Open monitor._
+
+> [!WARNING] 
+> Sometime it can't be open because of missing java 8. You can download in [Java website](https://www.java.com/download/ie_manual.jsp) or [Oracle](https://www.oracle.com/java/technologies/javase/javase8-archive-downloads.html)
+
+![image](https://github.com/GuardianOfGods/unity-mobile-developer/assets/52252046/076aa5c0-7dfc-492e-b370-7791c5593493)
+
+_4. Connect your mobile to pc._
+
+> [!WARNING] 
+> Make sure that your mobile is enable **Developer** and **USB Debugging**. You can search that on internet.
+
+![image](https://github.com/GuardianOfGods/unity-mobile-developer/assets/52252046/ad16e58d-cab0-4874-85b9-0d0cabe00ca9)
+
+5. Add Unity filter
+
+![image](https://github.com/GuardianOfGods/unity-mobile-developer/assets/52252046/72dfb172-c500-4471-b79c-4f2023db42e4)
+
+Result:
+
+![image](https://github.com/GuardianOfGods/unity-mobile-developer/assets/52252046/912ebdcd-56ff-46fb-b3ca-4207ea6eaebf)
+
+
 ### Debug Monitor
 
 ### Debug Logcat
