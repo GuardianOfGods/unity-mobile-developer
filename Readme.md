@@ -136,11 +136,11 @@ _4. Connect your mobile to pc._
 
 ![image](https://github.com/GuardianOfGods/unity-mobile-developer/assets/52252046/ad16e58d-cab0-4874-85b9-0d0cabe00ca9)
 
-5. Add Unity filter
+_5. Add Unity filter._
 
 ![image](https://github.com/GuardianOfGods/unity-mobile-developer/assets/52252046/72dfb172-c500-4471-b79c-4f2023db42e4)
 
-=> The result:
+====> **The result**
 
 ![image](https://github.com/GuardianOfGods/unity-mobile-developer/assets/52252046/912ebdcd-56ff-46fb-b3ca-4207ea6eaebf)
 
