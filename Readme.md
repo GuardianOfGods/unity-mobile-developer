@@ -85,7 +85,8 @@ This repository is mostly for reference, it contains the tips and tricks I have 
 - To display a folder at the top, I add an **"_"** to the folder name, and to display it at the bottom, I add a **"~"**.
 - This image below show how I order folder assets:
 
-![image](https://github.com/GuardianOfGods/unity-mobile-developer/assets/52252046/19e45553-fcc6-43af-a48b-fe43f4d75726)
+![image](https://github.com/GuardianOfGods/unity-mobile-developer/assets/52252046/80db71b5-a2c3-4e58-816e-ff24cdcb56ea)
+
 
 
 
