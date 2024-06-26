@@ -111,6 +111,7 @@ _4. While playing the game through the Game tab, I can view the information on t
 
 
 ## Debug
+### Debug With Monitor
 - The method I use for debugging on an actual mobile device is to use the monitor. Here is step to debug on mobile device:
   
 _1. Navigate to the SDK directory linked in the Edit -> Preferences -> External Tools -> Copy SDK Path._
@@ -139,14 +140,9 @@ _4. Connect your mobile to pc._
 
 ![image](https://github.com/GuardianOfGods/unity-mobile-developer/assets/52252046/72dfb172-c500-4471-b79c-4f2023db42e4)
 
-Result:
+=> The result:
 
 ![image](https://github.com/GuardianOfGods/unity-mobile-developer/assets/52252046/912ebdcd-56ff-46fb-b3ca-4207ea6eaebf)
-
-
-### Debug Monitor
-
-### Debug Logcat
 
 ## Tools
 
