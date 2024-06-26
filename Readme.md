@@ -6,6 +6,18 @@
 
 This repository is mostly for reference, it contains the tips and tricks I have applied throughout my programming career. I hope you find it useful.
 
+**Table of optimization contents:**
+- [Unity Hub](#Unity-Hub)
+  - [Trouble With Liscenses](#Trouble-With-Liscenses)
+  - [Choose Unity Version](#Choose-Unity-Version)
+- [IDE](#IDE)
+  - [Choose IDE](#Choose-IDE)
+  - [Attach IDE](#Attach-IDE)
+- [Unity Editor](#Unity-Editor)
+  - [Unity Layout](#Unity-Layout)
+- [Assets](#Assets)
+  - [Organize Folders](#Organize-Folders)
+  - [Replace Assets](#Replace-Assets)
 ## Unity Hub
 ### Trouble With Liscenses
 - Occasionally, adding a license in Unity Hub gets interrupted even though you have clicked to add it. My advice in this situation is to be patient and wait for a while, or you can repeatedly perform the add license action until it succeeds.
