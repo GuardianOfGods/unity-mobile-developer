@@ -80,17 +80,23 @@ This repository is mostly for reference, it contains the tips and tricks I have 
 
 ![image](https://github.com/GuardianOfGods/unity-mobile-developer/assets/52252046/7126b3ef-cb88-4980-8657-4efc0a0c51d2)
 
-## Project Assets
+## Assets
+### Organize Folders
 - I usually place project-related assets in a subfolder within the **Assets** directory to easily find resources and separate them from third-party assets. 
 - To display a folder at the top, I add an **"_"** to the folder name, and to display it at the bottom, I add a **"~"**.
 - This image below show how I order folder assets:
 
 ![image](https://github.com/GuardianOfGods/unity-mobile-developer/assets/52252046/80db71b5-a2c3-4e58-816e-ff24cdcb56ea)
 
-
-
-
 ### Replace Assets
+
+- Suppose you want to replace an old image in your project, but since the old image is used in many different UIs, when you add the new image, you will have to attach the new image in many places to replace the old one. My solution here is to replace the old image with the new image of the same name and keep the original meta file so that the links and format of the replacement image remain unchanged.
+- It may sound a bit lengthy and confusing, but in reality, you just need to open the folder containing the two image files and replace them with each other, as shown in this example:
+
+![image](https://github.com/GuardianOfGods/unity-mobile-developer/assets/52252046/3a1e4c90-d289-4687-86c3-2874d614fa02)
+
+![image](https://github.com/GuardianOfGods/unity-mobile-developer/assets/52252046/a0e64ee6-eca9-4db5-bda3-4e93effdbddc)
+
 
 ## Debug
 ### Debug Monitor
