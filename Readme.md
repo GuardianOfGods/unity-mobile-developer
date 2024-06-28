@@ -101,7 +101,6 @@ _4. While playing the game through the Game tab, I can view the information on t
 ![image](https://github.com/GuardianOfGods/unity-mobile-developer/assets/52252046/80db71b5-a2c3-4e58-816e-ff24cdcb56ea)
 
 ### Replace Assets
-
 - Suppose you want to replace an old image in your project, but since the old image is used in many different UIs, when you add the new image, you will have to attach the new image in many places to replace the old one. My solution here is to replace the old image with the new image of the same name and keep the original meta file so that the links and format of the replacement image remain unchanged.
 - It may sound a bit lengthy and confusing, but in reality, you just need to open the folder containing the two image files and replace them with each other, as shown in this example:
 
@@ -109,6 +108,8 @@ _4. While playing the game through the Game tab, I can view the information on t
 
 ![image](https://github.com/GuardianOfGods/unity-mobile-developer/assets/52252046/a0e64ee6-eca9-4db5-bda3-4e93effdbddc)
 
+### Find Assets
+-
 
 ## Debug
 ### Debug With Monitor
@@ -143,10 +144,6 @@ _5. Add Unity filter._
 => **The Result:**
 
 ![image](https://github.com/GuardianOfGods/unity-mobile-developer/assets/52252046/912ebdcd-56ff-46fb-b3ca-4207ea6eaebf)
-
-## Tools
-
-## Community
 
 # Topics
 - [Unity Mobile Optimization](https://github.com/GuardianOfGods/unity-interview-questions)
