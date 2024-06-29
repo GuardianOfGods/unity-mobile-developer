@@ -145,6 +145,8 @@ _5. Add Unity filter._
 
 ![image](https://github.com/GuardianOfGods/unity-mobile-developer/assets/52252046/912ebdcd-56ff-46fb-b3ca-4207ea6eaebf)
 
+# Debug With Android Studio
+
 # Topics
 - [Unity Mobile Optimization](https://github.com/GuardianOfGods/unity-interview-questions)
 - [Unity Interview Questions](https://github.com/GuardianOfGods/unity-interview-questions)
