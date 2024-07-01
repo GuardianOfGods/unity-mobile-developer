@@ -108,9 +108,6 @@ _4. While playing the game through the Game tab, I can view the information on t
 
 ![image](https://github.com/GuardianOfGods/unity-mobile-developer/assets/52252046/a0e64ee6-eca9-4db5-bda3-4e93effdbddc)
 
-### Find Assets
--
-
 ## Debug
 ### Debug With Monitor
 - The method I use for debugging on an actual mobile device is to use the monitor. Here is step to debug on mobile device:
@@ -145,7 +142,11 @@ _5. Add Unity filter._
 
 ![image](https://github.com/GuardianOfGods/unity-mobile-developer/assets/52252046/912ebdcd-56ff-46fb-b3ca-4207ea6eaebf)
 
-# Debug With Android Studio
+### Debug With Android Studio
+
+## Others
+
+- You can see more tips in [Brackeys' video](https://www.youtube.com/watch?v=thA3zv0IoUM&t=577s), which is also quite helpful.
 
 # Topics
 - [Unity Mobile Optimization](https://github.com/GuardianOfGods/unity-interview-questions)
