@@ -146,7 +146,9 @@ _5. Add Unity filter._
 
 ## Others
 
-- You can see more tips in [Brackeys' video](https://www.youtube.com/watch?v=thA3zv0IoUM&t=577s), which is also quite helpful.
+- You can see more tips in Brackeys' video below, which is also quite helpful.
+
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/thA3zv0IoUM&t=577s/0.jpg)](https://www.youtube.com/watch?v=thA3zv0IoUM&t=577s "100 UNITY TIPS!!!")
 
 # Topics
 - [Unity Mobile Optimization](https://github.com/GuardianOfGods/unity-interview-questions)
