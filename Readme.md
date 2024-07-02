@@ -152,7 +152,7 @@ _5. Add Unity filter._
 [![IMAGE ALT TEXT](http://i3.ytimg.com/vi/thA3zv0IoUM/hqdefault.jpg)](https://www.youtube.com/watch?v=thA3zv0IoUM&t=577s "100 UNITY TIPS!!!")
 
 # Topics
-- [Unity Mobile Optimization](https://github.com/GuardianOfGods/unity-interview-questions)
+- [Unity Mobile Optimization](https://github.com/GuardianOfGods/unity-mobile-optimization)
 - [Unity Interview Questions](https://github.com/GuardianOfGods/unity-interview-questions)
 
 # Support
